@@ -1,0 +1,34 @@
+---
+title: "Abdessamad Ait Mbarek"
+image: profile.jpeg
+card-style: "summary"
+mainfont: "monospace"
+monofont: "monospace"
+# fontsize: "20"
+fontcolor: "black"
+linkcolor: "#581c87"
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/A_A_mbarek
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/abdessamad-ait-mbarek-2b4ba0171/
+    - icon: github
+      text: Github
+      href: https://github.com/A-A-Mbarek
+    - icon: envelope-at-fill
+      text: Email
+      href: mailto:abdessamad.ambarek@gmail.com
+      
+output:
+  postcards::jolla
+---
+
+<p style="text-align: center; font-family: &#39;Geologica&#39;, sans-serif; font-size: 18px;">
+
+<link href="https://fonts.googleapis.com/css2?family=Geologica:wght@100..900&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet"> I'm Data Scientist with a background in statistics, deeply passionate about programming, data visualization, quantitative analysis, predictive modeling and econometrics. Currently, I serve as a researcher and quantitative analyst at the <a href="https://hcp.ma">High Commission for Planning</a>, where my focus lies in studying social inequalities through the analysis of households survey data.<br> 🌍 Based in Rabat, Morocco <br> 💬 I speak Arabic , French and English
+
+</p>

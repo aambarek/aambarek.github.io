@@ -1,0 +1,17 @@
+---
+  title: "Research"
+  subtitle: "Collection of works on quantitative analysis and predictive modelling"
+  date-format: "MMM, YYYY"
+  listing:
+    contents: research
+    type: grid
+    grid-columns: 3
+    sort: "date desc"
+    categories: false
+    sort-ui: false
+    filter-ui: false
+    fields: [date, title, author, image]
+  page-layout: full
+  title-block-banner: "#1e81b0"
+  title-block-banner-color: "#ffffff"
+---

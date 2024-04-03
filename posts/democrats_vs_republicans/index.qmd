@@ -1,0 +1,17 @@
+---
+title: '[Democrats]{style="color:#056c9a;"} vs [Republicans]{style="color:#eb5444;"}'
+date: "2024-02-19"
+date-format: "MMM, YYYY"
+categories: [data-viz]
+# title-block-banner: "#ffffff"
+---
+
+![](democr_vs_republ.png){width="2500"}
+
+See code in <a href = "https://github.com/A-A-Mbarek/Data-Vis-stories"> {{< fa brands github >}} </a>
+
+[*The visualization reveals fascinating patterns in the relationship between GDP growth and unemployment rates across various administrations. Observing the trends, we can discern how changes in economic policies and priorities under different political ideologies have impacted the nation's economic performance.*]{.abstract}
+
+[*For instance, during periods of Democratic administrations, we often observe a focus on stimulating economic growth through measures such as increased government spending and investment in social programs, leading to higher GDP growth rates. Conversely, Republican administrations may prioritize policies aimed at reducing government intervention and promoting business growth, which could influence fluctuations in unemployment rates.*]{.abstract}
+
+

@@ -1,0 +1,18 @@
+---
+title: "Global Inflation Surge"
+date: "2022-08-29"
+date-format: "MMM, YYYY"
+title-block-banner: "#dbdbdb"
+title-block-banner-color: "#d95f02"
+categories: [data-viz, economics]
+---
+
+![](image.png)
+
+See code in <a href = "https://github.com/A-A-Mbarek/Data-Vis-stories"> {{< fa brands github >}} </a>
+
+[*In 2022, countries around the world saw prices shoot up like never before, causing inflation rates to hit record highs. According to data from the OECD on prices, by July 2022, many European countries saw prices shoot up by more than 10% compared to the previous year. Turkey, for example, saw prices shoot up by a whopping 79% compared to July 2021.*]{.abstract}
+
+[*The impact of food and fuel prices on this inflation frenzy varies depending on structure of consumption in each country. In most European countries, about 20% of the inflation came from higher fuel prices. But in places like Hungary, Columbia, Mexico, and Morocco, it was the cost of food that played the biggest role in driving up prices for everyone.*]{.abstract}
+
+

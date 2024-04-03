@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Abdessamad Ait Mbarek"
+  navbar:
+    background: secondary
+    foreground: "white"
+    right:
+      - href: posts.qmd
+        text: Portfolio
+      - href: research.qmd
+        text: Research
+      - href: Resume.qmd
+        text: Résumé
+      - icon: github
+        href: https://github.com/A-A-Mbarek
+      - icon: linkedin
+        href: https://www.linkedin.com/in/abdessamad-ait-mbarek-2b4ba0171/
+      - icon: twitter
+        href: https://twitter.com/A_A_mbarek
+
+format:
+  html:
+    theme: cosmo
+    css: styles.scss
+
+      
+editor: visual
+enableEmoji: true

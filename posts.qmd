@@ -1,0 +1,17 @@
+---
+  title: "Portfolio"
+  subtitle: "Collection of works on Programming, Data Visualization and Analytics"
+  date-format: "MMM, YYYY"
+  listing:
+    contents: posts
+    sort: "date desc"
+    type: default
+    categories: true
+    sort-ui: false
+    filter-ui: false
+    fields: [image, date, title, description, categories]
+  page-layout: full
+  title-block-banner: "#1e81b0"
+  title-block-banner-color: "#ffffff"
+
+---

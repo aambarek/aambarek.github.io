@@ -1,0 +1,26 @@
+---
+title: "Micro Decomposition of Schooling Dynamics in Morocco"
+author:
+  - Abdessamad Ait Mbarek
+  - Khalid Soudi
+date: "2018-02-10"
+date-format: "MMM, YYYY"
+title-block-banner: "#ffffff"
+title-block-banner-color: "#000000"
+---
+
+## ABSTRACT
+
+[*The research is intended to assess the extent that economic growth, changes in inequality, and socio-cultural and structural changes affect progress in schooling. A better knowledge of the nature and magnitude and of these relationships would help to strengthen efforts of monitoring and evaluating progress towards achieving Sustainable Development Goal 4: "Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all".*]{.abstract}
+
+[*This paper work attempts to implement a micro-decomposition approach to explore the macroeconomic determinants of human development. It consists in measuring the relative importance of the growth in the income (approached by level of expenditure) and the change occurred on its distribution, taking into account the changes of socio-economic situations of Moroccan households. The methodology adopted consists of explaining schooling enrollment by a semi-parametric generalized linear model, with a parametric component consisting of estimating the coefficients related to the socio-demographic and cultural characteristics of individuals, while the non-parametric component will be used to represent the non-linear relationship between schooling enrollment and the household expenditures. This modeling was based on data from the National Surveys of Households Consumption and Expenditure (2001 and 2014).*]{.abstract}
+
+[*The key features of the results obtained show that the adverse effects of social and structural inequalities on schooling have been relatively offset by the effects of growth and sociocultural changes. These last two factors mainly explain the educational performance observed in Morocco during the first two decades of the third millennium.*]{.abstract}
+
+[*Keywords: Education, Growth, Inequalities, Semi-parametric generalized linear model, Micro decomposition*]{.abstract}
+
+![](Poster.png)
+
+Check the full article [here](https://drive.google.com/file/d/168J7erQ7Lo_TiE2b7YJLy6koqciBhSJ1/view?usp=sharing)
+
+Check the publication in french [here](https://www.hcp.ma/file/235712/)

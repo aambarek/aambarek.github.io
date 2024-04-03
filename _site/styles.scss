@@ -1,0 +1,69 @@
+/*-- scss:defaults --*/
+
+$navbar-bg : "#1e81b0"
+
+
+/* css styles */
+
+a {
+  text-decoration: none;
+}
+
+
+#title-block-header {
+  margin-block-end: 1rem;
+  position: relative;
+  margin-top: -1px;
+  height: 140px;
+}
+
+.quarto-title-banner {
+  margin-block-end: 1rem;
+  position: relative;
+  margin-top: -30px;
+  height: 140px;
+}
+
+.navbar li.nav-item a.nav-link span {
+    color: "#4b79a0";
+    font-weight: bold;
+    background-color: "red";
+}
+
+.navbar-brand {
+    color: "#4b79a0";
+    font-weight: bold;
+}
+    
+h1, .h1, h2, .h2, h3, .h3 {
+    margin-top: 44px;
+}
+
+body {
+    margin: 0;
+    font-family: monospace;
+}
+
+
+/*---research---*/
+
+.abstract {
+    margin: 0;
+    font-family: system-ui;
+    font-size: 20px;
+    text-align: justify;
+}
+
+.about {
+  @import url("https://fonts.googleapis.com/css?family=Sofia&effect=neon|outline|emboss|shadow-multiple");
+    margin: 0;
+    font-family: "Sofia";
+    font-size: 30px;
+    text-align: center;
+}
+
+
+p {
+  text-align: justify
+}
+

@@ -1,0 +1,24 @@
+---
+title: "Youth Underemployment In Morocco: An Analysis Of Contextual And Individual Determinants "
+author:
+  - Abdessamad Ait Mbarek 
+  - Khamissa Elkachach
+date: "2023-07-20"
+date-format: "MMM, YYYY"
+title-block-banner: "#ffffff"
+title-block-banner-color: "#2c4d75"
+---
+
+## ABSTRACT
+
+[*Employment is a form of social integration and major actor in wealth creation and income allocation. Despite actions undertaken to promote the national labour market and create more jobs for youth, youth keep facing more intense challenges related to quantitative issues, such as the high level of unemployment and the low female labour force participation rate, and other qualitative issues related to the adequacy of training/employment, low labour productivity, and underemployment. The latter is a key indicator of labour market performance. It is a relevant measure of the unused potential of the labour force that leads to losses in productivity and profitability and other socio-economic costs at the micro and macro levels.*]{.abstract}
+
+[*According to the High Commission for Planning (HCP, Morocco), the under-employed population reached more than one million people in 2021 including 325,400 of youth aged between 15 and 29 years, giving an underemployment rate of 9.3% and 14.6% among youth between 15 and 29 years old. The level of underemployment endures high in Morocco and requires in-depth analysis to fully understand the underlying causes behind this phenomenon. The objective of this study is to examine the extent to which contextual and individual factors may be driving youth underemployment in Morocco.*]{.abstract}
+
+[*Based on data from the 2021 National Employment Survey, and using binomial logistic regression model, it has been revealed that employment sector, geographical location, and qualification level are main factors explaining the underemployment situation of youth in Morocco. Indeed, youth working in the private agricultural sector are 24% more likely to be underemployed than those in the public sector. Youth with a university degree are 14% more likely to be underemployed than those without a degree. The geographical dimension also increases the risk of underemployment: Youth living in certain regions are more likely to be underemployed with a relative risk that exceeds 14% compared to those living in Casablanca-Settat. Gender in its turn has a significant impact on the risk of being underemployed: Being young female decreases the risk of being underemployed by 8.3%.*]{.abstract}
+
+[*Keywords: labour market, logistic-regression, underemployment, youth*]{.abstract}
+
+![](Poster.png)
+
+Check the full article [here](https://drive.google.com/file/d/1WDYpHv6h5OUllJN5TttROO2lLT39nfjd/view?usp=sharing)

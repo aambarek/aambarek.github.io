@@ -1,0 +1,57 @@
+---
+title: "Data Scientist | R Developer"
+format: pdf
+---
+
+
+
+## WORK EXPERIENCE {style="page-break-before: always"}
+
+***Researcher / Quantitative Analyst*** <br> *High Commission for Planning (HCP, Rabat)* [January 2022 - Present]{.cvdate}
+
+**Head of Research Unit on Social Inequalities at the Observatory of Living Conditions of the Population**
+
+-   Development of Machine Learning model for targeting households benefiting from social programs.
+
+-   Contribution to a study on categorical inflation and changes in household purchasing power.
+
+-   Development of R package [`GiniDecompLY`](https://cran.r-project.org/web/packages/GiniDecompLY/index.html) for the implementation of the Lerman Yithzaki decomposition method for simulating the impact of income sources on income inequality.
+
+-   Implementation of machine learning models for predicting consumption distribution and application of multiple imputation techniques for imputation of poverty rates in the Labor Force Survey.
+
+***Statistician / Survey Data Analyst*** <br> *High Commission for Planning (HCP, Rabat)* [April 2019 - December 2021]{.cvdate}
+
+-   Contribution to the execution of the National Survey on Living Standards and Sources of Household Income 2019
+
+-   Contribution to the development of the survey questionnaire, validation and cleansing of the micro data, updating of living standards key indicators.
+
+-   Contribution to the execution of the National Survey on the Impact of the Coronavirus On the Economic, Social, And Psychological Situation of Households
+
+***Junior Statistician*** <br> *High Commission for Planning (HCP, Rabat)* [May 2017 -- March 2018]{.cvdate}
+
+-   Implementation of semi-parametric generalized models on households' survey data to analyse the effects of economic growth and inequalities on schooling dynamics in Morocco. (See [Publication](https://www.hcp.ma/file/235712/))
+
+***Data Scientist, Part time Freelancer*** [April 2018 -- Present]{.cvdate}
+
+Providing data collection, pre-processing, exploratory analysis and modelling services to clients in the early R&D stages of developing data driven products. Projects include:
+
+-   Data description and preliminary product feasibility insights for a start-up real estate bond platform; including assessing suitability of various property transaction databases for use in initial product prototype.
+-   Development of statistical anomaly detection regimes and key historical insights from internet quality time-series data for use in parametric insurance products, including documenting analysis tools in an R package.
+
+## SKILLS
+
+<p align="left">
+
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" alt="rlang" width="48" height="48"/></a> <a href="https://www.tidyverse.org/" target="_blank" rel="noreferrer"><img src="cv_images/tidyverse_icon.png" alt="tidyverse" width="48" height="48"/></a> <a href="https://www.tidymodels.org/" target="_blank" rel="noreferrer"><img src="cv_images/tidymodels_icon.png" alt="tidymodels" width="48" height="48"/></a> <a href="https://shiny.posit.co/" target="_blank" rel="noreferrer"><img src="cv_images/shiny_icon.png" alt="rshiny" width="48" height="48"/></a> <a href="https://ggplot2.tidyverse.org/" target="_blank" rel="noreferrer"><img src="cv_images/ggplot2_logo.jpg" alt="ggplot" width="48" height="48"/></a> <a href="https://www.stata.com/" target="_blank" rel="noreferrer"><img src="cv_images/stata_icon.svg" alt="STATA" width="96" height="48"/></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" width="48" height="48"/></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" width="48" height="48"/></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" width="48" height="48"/></a> <a href="https://quarto.org/" target="_blank" rel="noreferrer"><img src="cv_images/logo-quarto.png" alt="PostgreSQL" width="48" height="48"/></a>
+
+</p>
+
+## EDUCATION
+
+**Diplôme d'Ingénieur d'Etat -- Statistics (State Engineer's Degree in Statistics)** <br> *National Institute of Statistics and Applied Economics (INSEA, Rabat)* [*September 2014 --- July 2016*]{.cvdate}
+
+-   Specialized in statistical analysis, data modeling, and research methodologies.
+-   Completed an intensive program in statistics with a focus on Econometrics, Decision Theory, Quantitative Analysis
+-   Qualification equivalent to a master's degree in Statistics
+
+**Bachelor degree -- Mathematics and Applications** <br> *Cadi Ayad University (FSSM, Marrakesh)* [*September 2011 --- July 2014*]{.cvdate}

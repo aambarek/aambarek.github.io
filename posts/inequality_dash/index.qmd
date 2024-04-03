@@ -1,0 +1,26 @@
+---
+title: "Expenditures Inequality Dashboard"
+date: "2023-01-17"
+date-format: "MMM, YYYY"
+categories: [data-viz, economics]
+title-block-banner-color: "#9b4355"
+title-block-banner: "#ebd4ce"
+---
+
+Welcome to the [Expenditure Inequality Dashboard](https://aambarek.shinyapps.io/expenditures_inequality_dash/), providing an overview of how spending varies across different groups in Morocco from 2001 to 2019. This user-friendly dashboard helps you explore important indicators that show how spending is distributed.
+
+-   Gini Index: See how spending inequality changes over time using the Gini index, a measure that shows if spending is distributed fairly.
+
+-   Shares of different population groups: Understand how spending is split among different groups of people, like rich and poor, to see who spends more.
+
+-   Ratio of highest to lowest spending: Find out how much more the richest people spend compared to the poorest, showing how money is concentrated.
+
+[![](dash_capture.png)](https://aambarek.shinyapps.io/expenditures_inequality_dash/)
+
+[![](dash_capture_2.png)](https://aambarek.shinyapps.io/expenditures_inequality_dash/)
+
+Users have the flexibility to tailor their exploration by selecting between rural and urban areas, offering nuanced insights into regional expenditure dynamics. Additionally, users can adjust how the population is segmented, enabling a granular examination of expenditure concentration patterns.
+
+All the indicators were calculated based on micro data of National Surveys of Consumption and Expenditures of Households (2001, 2007, 2014, 2019) conducted by the [High Commission for Planning](https://hcp.ma/).
+
+You can access to the Web App [here](https://aambarek.shinyapps.io/expenditures_inequality_dash/)

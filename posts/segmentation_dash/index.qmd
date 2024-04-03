@@ -1,0 +1,37 @@
+---
+title: "Behavioral Segmentation of Phone Users"
+format: html
+date: "2024-03-01"
+date-format: "MMM, YYYY"
+title-block-banner: "#1e81b0"
+title-block-banner-color: "#ffffff"
+categories: [clustering,data-viz]
+---
+
+This [*Quarto Dashboard*](https://aambarek.shinyapps.io/segmentation_dashboard/) provides visual insights into customer behavioral segmentation for phone usage patterns. It showcases clustering results, allowing you to understand distinct customer groups based on their behavior.
+
+The unsupervised learning algorithm employed here is `kmeans`, which utilizes a set of features including:
+
+• Average call duration
+
+• Average number of calls per day
+
+• Average number of SMS per day
+
+• % daytime calls (9am -3pm)
+
+• % evening calls (6pm-10pm)
+
+• % of weekday calls
+
+• % of Saturday calls
+
+• % of Sunday calls
+
+![](elbow_plot.png){width="60%" fig-align="center"}
+
+You have the flexibility to choose the number of clusters, allowing for tailored segmentation analysis. Dive deeper into each cluster's profile to understand the distribution of the features.
+
+![](screen.png){width="40%" fig-align="center"}
+
+Interact with the segmentation results [here](https://aambarek.shinyapps.io/segmentation_dashboard/) and uncover actionable insights for strategic decision-making.

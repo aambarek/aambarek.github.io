@@ -12,7 +12,7 @@ about:
   links:
     - icon: twitter
       text: Twitter
-      href: https://twitter.com/A_A_mbarek
+      href: https://twitter.com/AAMbarek
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/abdessamad-ait-mbarek-2b4ba0171/

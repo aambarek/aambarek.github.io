@@ -30,7 +30,7 @@ output:
 <p style="text-align: center; font-family: &#39;Geologica&#39;, sans-serif; font-size: 18px;">
 
 <link href="https://fonts.googleapis.com/css2?family=Geologica:wght@100..900&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet"> Statistician and Data Scientist with a strong background in statistics and quantitative analysis, specializing in predictive modeling, econometrics, and data visualization.
-I currently serve as Head of Program Evaluation at the <a href="https://anss.ma">National Agency for Social Support</a>, where I lead the evaluation and experimentation of social  programs, and previously worked as a researcher and quantitative analyst at the <a href="https://hcp.ma">High Commission for Planning</a>, focusing on the analysis of household survey data and social inequalities.<br> 🌍 Based in Rabat, Morocco <br> 💬 I speak Arabic , French and English
+I currently serve as Head of Program Evaluation at the <a href="https://anss.gov.ma">National Agency for Social Support</a>, where I lead the evaluation and experimentation of social  programs, and previously worked as a researcher and quantitative analyst at the <a href="https://hcp.ma">High Commission for Planning</a>, focusing on the analysis of household survey data and social inequalities.<br> 🌍 Based in Rabat, Morocco <br> 💬 I speak Arabic , French and English
 
 </p>
 

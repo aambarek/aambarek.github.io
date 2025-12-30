@@ -1,0 +1,20 @@
+[
+  {
+    "listing": "/posts.html",
+    "items": [
+      "/posts/segmentation_dash/index.html",
+      "/posts/democrats_vs_republicans/index.html",
+      "/posts/ginidecomply/index.html",
+      "/posts/inequality_dash/index.html",
+      "/posts/inflation_story/index.html"
+    ]
+  },
+  {
+    "listing": "/research.html",
+    "items": [
+      "/research/youth_underemployment/index.html",
+      "/research/poverty_imputation/index.html",
+      "/research/schooling_dynamics/index.html"
+    ]
+  }
+]
